@@ -1,5 +1,6 @@
 package test
 
+
 object ArrayTest {
   //Scala 语言中提供的数组是用来存储固定大小的同类型元素，数组对于每一门编辑应语言来说都是重要的数据结构之一。
   //声明数组变量并不是声明 number0、number1、...、number99 一个个单独的变量，
